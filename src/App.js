@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1> First React App auto deployed on surge using github workflow! </h1>
+      <h1> First React App auto deployed on surge using github workflow!! </h1>
     </div>
   );
 }
